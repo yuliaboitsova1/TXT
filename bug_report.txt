@@ -1,0 +1,9 @@
+
+ ID: AM
+ description: open website https://response-form.herokuapp.com/, fill the name field, fill date field, set 10 stars, Write a review text, Click on the send feedback button
+ version: IOS 16.1
+ severyti: critical
+ priority: high
+ status: new
+ AR: date field error
+ ER: the date entered by the user is displayed
