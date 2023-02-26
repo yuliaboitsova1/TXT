@@ -1,0 +1,2 @@
+skills:theory, bug reports, test cases, client-server architecture, HTTP methods, API testing, Dev Tools, Sniffing traffic, VPN, Mobile testing, Git Bash, basic of SQL, Postgress, Redis, Jmeter, Scrum, basic of python
+
