@@ -1,0 +1,3 @@
+ person_name: Yulia
+ person_age: 29
+ person_animals:do not have
